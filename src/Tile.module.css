@@ -1,0 +1,11 @@
+.tile {
+    width: 35px;
+    height: 35px
+}
+
+.blankTile {
+    width: 35px;
+    height: 35px;
+    background-color: white;
+    border: 0px;
+}
